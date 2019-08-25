@@ -5,11 +5,11 @@
 
 # 见闻
 
-1. [海上船载核电站](https://www.zaobao.com/znews/international/story20190824-983404)   
+1. [海上浮动核电站](https://www.zaobao.com/znews/international/story20190824-983404)   
 
 ![](https://raw.githubusercontent.com/superJavo/image/master/ship.jpg)
 
-俄罗斯生产的全球第一座海上船载核电站下海，为西伯利亚东北部提供电力。总容量为70兆瓦（1兆瓦=100万瓦），可满足10万人的用电量。
+俄罗斯生产的全球第一座海上浮动核电站下海，为西伯利亚东北部提供电力。总容量为70兆瓦（1兆瓦=100万瓦），可满足10万人的用电量。
 
 2. 亚马逊丛林大火
 
