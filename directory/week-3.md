@@ -5,13 +5,13 @@
 
 # 见闻
 
-1. [海上浮动核电站](https://www.zaobao.com/znews/international/story20190824-983404)   
+1 [海上浮动核电站](https://www.zaobao.com/znews/international/story20190824-983404)   
 
 ![](https://raw.githubusercontent.com/superJavo/image/master/ship.jpg)
 
 俄罗斯生产的全球第一座海上浮动核电站下海，为西伯利亚东北部提供电力。总容量为70兆瓦（1兆瓦=100万瓦），可满足10万人的用电量。
 
-2. 亚马逊丛林大火
+2 亚马逊丛林大火
 
 ![](https://raw.githubusercontent.com/superJavo/image/master/amazon.jpg)
 
@@ -22,11 +22,11 @@
 ![](https://raw.githubusercontent.com/superJavo/image/master/amazon2.jpg)
 NASA 公布的卫星照片，亚马逊大火的浓烟出现在多个州
 
-3. [福建限制网络犯罪者入网](http://fjca.miit.gov.cn/News/13612.html)  
+3 [福建限制网络犯罪者入网](http://fjca.miit.gov.cn/News/13612.html)  
 
 福建出台管理意见提出，限制涉电信网络犯罪不良信用用户入网（电信诈骗等类型的犯罪），限制周期分为 5 年、3 年、1 年等 3 个级别。在限制期内，受限人不能办理新的入网业务，且只能有一个手机号或固话，不能注销重新办理。网络管理进一步加强。
 
-4. [Google 新算法，识别手语](https://www.bbc.com/news/technology-49410945)  
+4 [Google 新算法，识别手语](https://www.bbc.com/news/technology-49410945)  
 
 对于语言障碍的人，手语是日常交流的主要方式，但对于不懂手语的人来说，想要理解对方表达的意思基本只能靠猜。
 
@@ -39,7 +39,7 @@ Google 开发的这款算法可以将手语转为语音。它将一只手分为 
 
 # 图片
 
-1. 一只重达 900 克的非洲牛箱头蛙
+1 一只重达 900 克的非洲牛箱头蛙
 
 ![](https://raw.githubusercontent.com/superJavo/image/master/fatfrog.jpg)
 
@@ -47,7 +47,7 @@ Google 开发的这款算法可以将手语转为语音。它将一只手分为 
 
 ![](https://raw.githubusercontent.com/superJavo/image/master/tortoise.jpg)
 
-2. 一名泰国消防员正在清洗装蛇的笼子
+2 一名泰国消防员正在清洗装蛇的笼子
 
 ![](https://raw.githubusercontent.com/superJavo/image/master/snake.jpg)
 
@@ -55,15 +55,15 @@ Google 开发的这款算法可以将手语转为语音。它将一只手分为 
 
 # 文章
 
-1. [盗版伤害了中国软件，却撑起了那时的中国经济](https://dajia.qq.com/original/category/lyj20180428.html) 
+1 [盗版伤害了中国软件，却撑起了那时的中国经济](https://dajia.qq.com/original/category/lyj20180428.html) 
 
 中国互联网发展 20 多年，软件行业日趋成熟，但盗版问题却始终没有解决。在 2006 年，有超过 8 成的 Windows 操作系统是盗版。本文可以了解中国互联网盗版史。
 
-2. [网络背后的阴暗](https://www.ifanr.com/1246758)   
+2 [网络背后的阴暗](https://www.ifanr.com/1246758)   
 
 互联网上的所有内容都会受到监督，而负责判定这些内容是否违规的人就是内容审核员。他们是一个特殊的群体，每天都要面对数以万计的黄、暴、恐、毒、血腥、虐待等极端内容，更严重的是这样的工作可能会造成难以修复的心理创伤，最终麻木。内容审核员们需要人道关怀，业内的普遍方向是用 AI 来替代人工审核。同时人们必须意识到他们在网络上看到的可能只是这个真实世界的冰山一角。
 
-3. [植物身上的黄金分割](https://card.weibo.com/article/m/show/id/2309404407466321379574)  
+3 [植物身上的黄金分割](https://card.weibo.com/article/m/show/id/2309404407466321379574)  
 
 ![](https://raw.githubusercontent.com/superJavo/image/master/qsl.jpg)  
 
@@ -75,7 +75,7 @@ Google 开发的这款算法可以将手语转为语音。它将一只手分为 
 
 # 分享
 
-1. [手机壁纸网站](https://mc-myth.cn/files/wallpaper)   
+1 [手机壁纸网站](https://mc-myth.cn/files/wallpaper)   
 
 一个下载手机版壁纸的网站，提供 1920×1080 分辨率的下载。
 
@@ -84,7 +84,7 @@ Google 开发的这款算法可以将手语转为语音。它将一只手分为 
 ![](https://raw.githubusercontent.com/superJavo/image/master/wallpaper1.png)  
 
 
-2. [CHART.XKCD](https://timqian.com/chart.xkcd)  
+2 [CHART.XKCD](https://timqian.com/chart.xkcd)  
 
 ![](https://raw.githubusercontent.com/superJavo/image/master/CHART.XKCD.png)
 
@@ -92,17 +92,17 @@ Google 开发的这款算法可以将手语转为语音。它将一只手分为 
 
 一个手绘风格的图表插件，支持 npm 安装，源码在[这里](https://github.com/timqian/chart.xkcd)
 
-3. [片段：一个代码分享网站](https://pianduan.fun/)  
+3 [片段：一个代码分享网站](https://pianduan.fun/)  
 
 这个网站上有很多用户分享的代码片段，语言包括 java、kotlin、js、C、C#、C++、golang 等，每一个代码片段都是一个独立的小功能，如 CSS 的毛玻璃效果、js 生成随机字符串等。
 
 ![](https://raw.githubusercontent.com/superJavo/image/master/pianduan.png)
 
-4. [lulu UI](https://l-ui.com)
+4 [lulu UI](https://l-ui.com)
 
 一个基于 jQuery 的前端 UI 框架，兼容 IE7、IE8 等较老的浏览器。源码在[这里](https://github.com/yued-fe/lulu)
 
-5. [js 实现图像处理](https://chenshenhai.github.io/pictool-doc)
+5 [js 实现图像处理](https://chenshenhai.github.io/pictool-doc)
 
 纯 js 实现的图像处理，可以对图片进行简单的编辑
 
@@ -112,7 +112,7 @@ Google 开发的这款算法可以将手语转为语音。它将一只手分为 
 
 # 文摘
 
-1. 感激和怨恨
+1 感激和怨恨
 
 >假如你平白无故地每月给某人一笔惠赠，开始时他会惊讶，渐渐地，他习惯了，视为当然了。然后，有一回，你减少了惠赠的数目，他会怎么样呢?他会怨恨你。　　
 
@@ -122,7 +122,7 @@ Google 开发的这款算法可以将手语转为语音。它将一只手分为 
 
 ---《人与永恒》 周国平
 
-2. 永远要去做那些最值得做的事
+2 永远要去做那些最值得做的事
 
 >书太多了，我决定清理掉一些。有一些书，不读一下就扔似乎可惜，我决定在扔以前粗读一遍。我想，这样也许就对得起它们了。可是，属于这个范围的书也非常多，结果必然是把时间都耗在这些较差的书上，而总也不能开始读较好的书了。于是，对得起它们的代价是我始终对不起自己。  
 
@@ -132,7 +132,7 @@ Google 开发的这款算法可以将手语转为语音。它将一只手分为 
 
 ---《人与永恒》 周国平
 
-3. 比尔盖茨谈基因技术
+3 比尔盖茨谈基因技术
 
 >技术是无道德属性的，它既非善也非恶。技术的善恶完全取决于我们——不止是科学家、政府官员和财富足以创建基金会的人——对这些新技术的思考，以及这些技术应当如何被使用，又不应如何被使用。
 
@@ -140,15 +140,15 @@ Google 开发的这款算法可以将手语转为语音。它将一只手分为 
 
 # 冷知识
 
-1. 唯一当皇帝的太监
+1 唯一当皇帝的太监
 
     曹操的父亲曹嵩本姓夏侯，是东汉宦官曹腾的养子（这也是曹魏政权中有大批夏侯族人的原因，夏侯与曹本是一家）。曹操的孙子曹叡即位后，追封曹腾为高皇帝。曹腾也是古代历史上唯一一个真正当皇帝的太监。
 
-2. 医院里内科和外科的区别是，内科主要靠药物治疗，外科主要靠手术治疗，和生病的部位无关。
+2 医院里内科和外科的区别是，内科主要靠药物治疗，外科主要靠手术治疗，和生病的部位无关。
 
-3. 秦始皇生在河北，死在河北。
+3 秦始皇生在河北，死在河北。
 
-4. 在眼镜被发明之前，眼镜蛇没有统一名称，民间对其称呼有蝙蝠蛇、扁颈蛇、吹风蛇、膨颈蛇等。
+4 在眼镜被发明之前，眼镜蛇没有统一名称，民间对其称呼有蝙蝠蛇、扁颈蛇、吹风蛇、膨颈蛇等。
 
 # 关于
 
