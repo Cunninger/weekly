@@ -79,7 +79,7 @@ Dopamine的外观设计非常简约清新，可以切换明暗主题。并且支
 中国自古以来就有五行，五行分别对应五个方位。古代厕所建造在北面偏东的位置，厨房要建造在南面偏东。去南方时，习惯说南下(皇帝下江南)，去北方时，习惯说北上(北上抗日)。当要去厕所时要去院子的北面，所以说上厕所。当要去厨房时，要去院子的南面，所以说下厨房。
 
 # 关于
-我是江月，受阮一峰老师影响，和对文字的兴趣，我从2019年8月开始记录生活中的见闻，并于每周日更新在[GitHub](https://superjavo.github.io/weekly)、[微信公众号](https://weixin.sogou.com/weixin?type=1&s_from=input&query=Javo-Net&ie=utf8&_sug_=n&_sug_type_=)和[语雀](https://www.yuque.com/javo/weekly)，欢迎投稿。你可以在[GitHub](https://github.com/superJavo/weekly)是提交issue，或发邮件到 [***comeonjavo@163.com***](mailto://comeonjavo@163.com)。关注公众号“江月的网”了解更多信息。   
+我是江月，受阮一峰老师影响，和对文字的兴趣，我从2019年8月开始记录生活中的见闻，并于每周日更新在 [GitHub](https://superjavo.github.io/weekly) 、[微信公众号](https://weixin.sogou.com/weixin?type=1&s_from=input&query=Javo-Net&ie=utf8&_sug_=n&_sug_type_=)和[语雀](https://www.yuque.com/javo/weekly)，欢迎投稿。你可以在 [GitHub](https://github.com/superJavo/weekly) 上提交 issue ，或发邮件到 [***comeonjavo@163.com***](mailto://comeonjavo@163.com)。关注公众号“江月的网”了解更多信息。   
 
 ![公众号二维码](https://raw.githubusercontent.com/superJavo/image/master/wx_logo.jpg)
 

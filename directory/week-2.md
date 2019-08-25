@@ -91,7 +91,7 @@
 4. 众所周知，人需要耗费能量来消化食物，如果某种食物为人体提供的能量小于消化它所耗费的能量，就能实现“越吃越瘦”的效果，网上有人将这种食物定义为“负能量食物”。事实上，**这种食物并不存在**。
 
 # 关于
-我是江月，受阮一峰老师影响，和对文字的兴趣，我从2019年8月开始记录生活中的见闻，并于每周日更新在[GitHub](https://superjavo.github.io/weekly)、[微信公众号](https://weixin.sogou.com/weixin?type=1&s_from=input&query=Javo-Net&ie=utf8&_sug_=n&_sug_type_=)和[语雀](https://www.yuque.com/javo/weekly)，欢迎投稿。你可以在[GitHub](https://github.com/superJavo/weekly)是提交issue，或发邮件到 [***comeonjavo@163.com***](mailto://comeonjavo@163.com)。关注公众号“江月的网”了解更多信息。   
+我是江月，受阮一峰老师影响，和对文字的兴趣，我从 2019 年 8 月开始记录生活中的见闻，并于每周日更新在 [GitHub](https://superjavo.github.io/weekly) 、[微信公众号](https://weixin.sogou.com/weixin?type=1&s_from=input&query=Javo-Net&ie=utf8&_sug_=n&_sug_type_=)和[语雀](https://www.yuque.com/javo/weekly)，欢迎投稿。你可以在 [GitHub](https://github.com/superJavo/weekly) 上提交 issue ，或发邮件到 [***comeonjavo@163.com***](mailto://comeonjavo@163.com)。关注公众号“江月的网”了解更多信息。   
 
 ![公众号二维码](https://raw.githubusercontent.com/superJavo/image/master/wx_logo.jpg)
 
