@@ -1,7 +1,7 @@
 # 江月的周刊
  收集每周见闻，记录点滴生活  
 
- 2019.8 : [第1期](directory/week-1.md)，[第2期](directory/week-2.md)，[第3期](directory/week-3.md)
+ 2019.8 : [第1期](docs/week-1.md)，[第2期](docs/week-2.md)，[第3期](docs/week-3.md)
 
 
 
