@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/superJavo/image/master/oldteam.jpg)
+
 一个由老年人组成的乐队  天津
 
 #### 人的寿命越来越长，现在如果 65 岁去世的话会被认为短命，而且来不及享受养老金。老年人越来越多，养老金系统的负担会越来越重，最终领取的金额会负担不了日常的生活，要么提高退休年龄，要么找到其他增收的途径。
@@ -7,19 +7,15 @@
 
 1 [海上浮动核电站](https://www.zaobao.com/znews/international/story20190824-983404)   
 
-![](https://raw.githubusercontent.com/superJavo/image/master/ship.jpg)
-
 俄罗斯生产的全球第一座海上浮动核电站下海，为西伯利亚东北部提供电力。总容量为 70 兆瓦（1 兆瓦 = 100 万瓦），可满足10万人的用电量。
 
 2 亚马逊丛林大火
-
-![](https://raw.githubusercontent.com/superJavo/image/master/amazon.jpg)
 
 亚马逊丛林发生特大森林火灾，大火已燃烧十余天，巴西政府已经派遣武装部队参与灭火，但面对如此规模的森林，能否人工扑灭仍然不得而知。  
 
 继去年 9 月的国家图书馆大火后，巴西又一次面对火灾。一次对文化，一次对自然，都是毁灭性的打击。
 
-![](https://raw.githubusercontent.com/superJavo/image/master/amazon2.jpg)
+![](https://raw.githubusercontent.com/superJavo/image/master/amazon2.jpg
 NASA 公布的卫星照片，亚马逊大火的浓烟出现在多个州
 
 3 [福建限制网络犯罪者入网](http://fjca.miit.gov.cn/News/13612.html)  
@@ -32,23 +28,23 @@ NASA 公布的卫星照片，亚马逊大火的浓烟出现在多个州
 
 Google 开发的这款算法可以将手语转为语音。它将一只手分为 21 个节点，可以识别出每个节点的位置、相互的连接状态等，并且支持两只手同时表达。
 
-![](https://raw.githubusercontent.com/superJavo/image/master/hand.png)
+!(https://raw.githubusercontent.com/superJavo/image/master/hand.png)
 
-![](https://raw.githubusercontent.com/superJavo/image/master/hand.gif)
+!(https://raw.githubusercontent.com/superJavo/image/master/hand.gif)
 
 # 图片
 
 1 一只重达 900 克的非洲牛箱头蛙
 
-![](https://raw.githubusercontent.com/superJavo/image/master/fatfrog.jpg)
+!(https://raw.githubusercontent.com/superJavo/image/master/fatfrog.jpg)
 
 伦敦动物园进行年度动物盘点，一只非洲牛箱头蛙正在称重。难道你就是忍者龟的表弟？
 
-![](https://raw.githubusercontent.com/superJavo/image/master/tortoise.jpg)
+!(https://raw.githubusercontent.com/superJavo/image/master/tortoise.jpg)
 
 2 一名泰国消防员正在清洗装蛇的笼子
 
-![](https://raw.githubusercontent.com/superJavo/image/master/snake.jpg)
+!(https://raw.githubusercontent.com/superJavo/image/master/snake.jpg)
 
 泰国的蛇类在 6~10 月进入繁殖期，经常闯入村落民居寻找食物。捕蛇逐渐成为泰国消防员的日常工作，2018 年曼谷消防局共接到 3.7 万次除蛇报警，每天接警除蛇逾 100 次，而火灾仅有 1~2 次。大多数蛇为无毒的蟒蛇，消防员们通常将它们送往野生动物中心，最终放归自然。
 
@@ -64,19 +60,15 @@ Google 开发的这款算法可以将手语转为语音。它将一只手分为 
 
 3 [植物身上的黄金分割](https://card.weibo.com/article/m/show/id/2309404407466321379574)  
 
-![](https://raw.githubusercontent.com/superJavo/image/master/qsl.jpg)  
 
-![](https://raw.githubusercontent.com/superJavo/image/master/xrk.jpg)  
-
-![](https://raw.githubusercontent.com/superJavo/image/master/dylh.jpg)
-
-得益于严谨的数学逻辑，一些植物身上存在着天然的美感。本文介绍了这样的构造是怎么长成的。
 
 # 分享
 
-1 [纪录片之家](http://www.05jl.com/)   
+1 [纪录片之家(05jl.com)](http://www.05jl.com/)   
 
-一个收集国内外纪录片的网站，内容囊括人文自然，提供 BT 种子下载。除了纪录片网站还提供了美剧资源。
+![](https://raw.githubusercontent.com/superJavo/image/master/05jl.png)
+
+一个收集国内外纪录片的网站，内容包括人文与自然，提供 BT 种子下载。除了纪录片，网站还提供了美剧资源。
 
 2 [nodejs 教程](https://www.nodejs.red/)
 
@@ -86,55 +78,55 @@ Google 开发的这款算法可以将手语转为语音。它将一只手分为 
 
 一个为图片添加 Mac 边框的在线工具，可以让你的图片看上去更美观。你可以通过调整页面右侧的 Window 选项来改变边框的样式。
 
-4 [lulu UI](https://l-ui.com)
+![](https://raw.githubusercontent.com/superJavo/image/master/screely.png)
 
-一个基于 jQuery 的前端 UI 框架，兼容 IE7、IE8 等较老的浏览器。源码在[这里](https://github.com/yued-fe/lulu)
+4 [tagLyst Next(Win，Mac)](http://www.taglyst.com)
 
-5 [js 实现图像处理](https://chenshenhai.github.io/pictool-doc)
+电脑里存的文件越来越多，找起来很费时间。用这个软件可以给电脑中的文件贴上不同的标签，按照不同的标签查找和统计文件。
 
-纯 js 实现的图像处理，可以对图片进行简单的编辑
+![](https://raw.githubusercontent.com/superJavo/image/master/tagLyst%20Next.gif)
 
-![](https://raw.githubusercontent.com/superJavo/image/master/pictool.png)
+5 [All to All](http://www.alltoall.net)
 
-![](https://raw.githubusercontent.com/superJavo/image/master/pictool.gif)
+在线文件格式转换网站，像它的名字一样，几乎所有的格式都能转换。以下是它支持转换的格式。
+
+![](https://raw.githubusercontent.com/superJavo/image/master/All2All.png)
 
 # 文摘
 
-1 我们的家教好像什么都有，就是没有性教育
+1 性教育
 
 > 刚刚在饭桌上，思琪用面包涂奶油的口气对妈妈说：“我们的家教好像什么都有，就是没有性教育。”妈妈诧异地看着她，回答：“什么性教育？性教育是给那些需要性的人。所谓教育不就是这样吗？”思琪一时间明白了，在这个故事中父母将永远缺席，他们旷课了，却自以为是还没开学。
 
 ---《房思琪的初恋乐园》 林奕含
 
-2 永远要去做那些最值得做的事
+2 人们宁愿和大家一起犯错误，也不愿成为唯一正确的那个人。
 
-> 书太多了，我决定清理掉一些。有一些书，不读一下就扔似乎可惜，我决定在扔以前粗读一遍。我想，这样也许就对得起它们了。可是，属于这个范围的书也非常多，结果必然是把时间都耗在这些较差的书上，而总也不能开始读较好的书了。于是，对得起它们的代价是我始终对不起自己。  
+---《灰犀牛》
 
-> 所以，正确的做法是，在所有的书中，从最好的书开始读起。一直去读那些最好的书，最后当然就没有时间去读较差的书了，不过这就对了。  
+3 天下小人未有自称小人者
 
-> 在一切事情上都应该如此。**世上可做可不做的事是做不完的，永远要去做那些最值得做的事**。
-
----《人与永恒》 周国平
-
-3 比尔盖茨谈基因技术
-
-> 技术是无道德属性的，它既非善也非恶。技术的善恶完全取决于我们——不止是科学家、政府官员和财富足以创建基金会的人——对这些新技术的思考，以及这些技术应当如何被使用，又不应如何被使用。
-
----比尔盖茨
+---《阅微草堂笔记》
 
 # 冷知识
 
-1 唯一当皇帝的太监
+1 草莓的果实
 
-```
-曹操的父亲曹嵩本姓夏侯，是东汉宦官曹腾的养子（这也是曹魏政权中有大批夏侯族人的原因，夏侯与曹本是一家）。曹操的孙子曹叡即位后，追封曹腾为高皇帝。曹腾也是古代历史上唯一一个真正当皇帝的太监。
-```
+人们通常认为的草莓果实其实是它的花托，而表面那些“芝麻”才是草莓真正的果实。像这种多个小果聚集在一个膨大的花托上的果实称为聚合果，比如人们熟悉的大料（八角）。
 
-2 医院里内科和外科的区别是，内科主要靠药物治疗，外科主要靠手术治疗，和生病的部位无关。
+2 蓝宝石可能不是蓝色的
 
-3 秦始皇生在河北，死在河北。
+刚玉分为红宝石和蓝宝石两类，其中红颜色的是红宝石，其他所有颜色的都是蓝宝石。红宝石的红色来源于其中的铬元素（Cr），蓝宝石的蓝色来源于钛元素（Ti）和铁元素（Fe）。蓝宝石可能有粉红、黄、绿、白或混合多种颜色。
 
-4 在眼镜被发明之前，眼镜蛇没有统一名称，民间对其称呼有蝙蝠蛇、扁颈蛇、吹风蛇、膨颈蛇等。
+3 企鹅有双大长腿
+
+通常人们会被企鹅肥胖的外表所蒙蔽，但其实企鹅是有一双大长腿的。大多数时候它们都是蹲着走路的。
+
+![](https://raw.githubusercontent.com/superJavo/image/master/qi_e_X.jpg)
+
+![](https://raw.githubusercontent.com/superJavo/image/master/qi_e.jpeg)
+
+4 徽县在甘肃，陕县在河南，吉县在山西，陇县在陕西，青县在河北。
 
 # 关于
 
@@ -142,6 +134,6 @@ Google 开发的这款算法可以将手语转为语音。它将一只手分为 
 
 ![公众号二维码](https://raw.githubusercontent.com/superJavo/image/master/wx_logo.jpg)
 
-2019-08-18  
+2019-09-01  
 
 （完）
