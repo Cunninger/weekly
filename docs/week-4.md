@@ -1,52 +1,47 @@
+![](https://raw.githubusercontent.com/superJavo/image/master/lt.jpg)
 
-一个由老年人组成的乐队  天津
+2019.8 天津
 
-#### 人的寿命越来越长，现在如果 65 岁去世的话会被认为短命，而且来不及享受养老金。老年人越来越多，养老金系统的负担会越来越重，最终领取的金额会负担不了日常的生活，要么提高退休年龄，要么找到其他增收的途径。
+#### 片云天共远，永夜月同孤
 
 # 见闻
 
-1 [海上浮动核电站](https://www.zaobao.com/znews/international/story20190824-983404)   
+1 [2019年版第五套人民币发行](http://www.pbc.gov.cn/rmyh/2019rmb/index.html)   
 
-俄罗斯生产的全球第一座海上浮动核电站下海，为西伯利亚东北部提供电力。总容量为 70 兆瓦（1 兆瓦 = 100 万瓦），可满足10万人的用电量。
+![](https://raw.githubusercontent.com/superJavo/image/master/50yuan.jpg)
 
-2 亚马逊丛林大火
+2019年版第五套人民币在8月30日流通，本版包括除100元外的所有纸币面额及全部硬币面额，是在前版基础上进行微调。
 
-亚马逊丛林发生特大森林火灾，大火已燃烧十余天，巴西政府已经派遣武装部队参与灭火，但面对如此规模的森林，能否人工扑灭仍然不得而知。  
+2 [npm 禁止终端广告](https://www.zdnet.com/article/npm-bans-terminal-ads)
 
-继去年 9 月的国家图书馆大火后，巴西又一次面对火灾。一次对文化，一次对自然，都是毁灭性的打击。
+最近，有开发者试图在 npm   终端上通过输出文本链接的方式增加广告，但 npm 官方禁止了这种做法
 
-![](https://raw.githubusercontent.com/superJavo/image/master/amazon2.jpg
-NASA 公布的卫星照片，亚马逊大火的浓烟出现在多个州
+3 [USB4 规范发布](https://www.usb.org)  
 
-3 [福建限制网络犯罪者入网](http://fjca.miit.gov.cn/News/13612.html)  
+USB4 是 USB 的一个重大更新，由于使用了 Intel 授权的 Thunderbolt 3 协议，速度得到大幅提升，新版本带宽是 USB 3.2 的两倍，同时扩展了 USB Type-C 性能。
 
-福建出台管理意见提出，限制涉电信网络犯罪不良信用用户入网（电信诈骗等类型的犯罪），限制周期分为 5 年、3 年、1 年等 3 个级别。在限制期内，受限人不能办理新的入网业务，且只能有一个手机号或固话，不能注销重新办理。网络管理进一步加强。
+USB4 解决方案的主要特点包括：
 
-4 [Google 新算法，识别手语](https://www.bbc.com/news/technology-49410945)  
+* 使用现有 USB Type-C 电缆进行双通道操作，通过 40 Gbps 认证电缆进行高达 40 Gbps 的操作
 
-对于语言障碍的人，手语是日常交流的主要方式，但对于不懂手语的人来说，想要理解对方表达的意思基本只能靠猜。
-
-Google 开发的这款算法可以将手语转为语音。它将一只手分为 21 个节点，可以识别出每个节点的位置、相互的连接状态等，并且支持两只手同时表达。
-
-!(https://raw.githubusercontent.com/superJavo/image/master/hand.png)
-
-!(https://raw.githubusercontent.com/superJavo/image/master/hand.gif)
+- 多种数据和显示协议可有效共享总线上的总可用带宽
+- 向后兼容 USB 3.2、USB 2.0 和 Intel 的 Thunderbolt 3
 
 # 图片
 
-1 一只重达 900 克的非洲牛箱头蛙
+1 中学语文课本中的杜甫画像其实是作者蒋兆和的自画像
 
-!(https://raw.githubusercontent.com/superJavo/image/master/fatfrog.jpg)
+![](https://raw.githubusercontent.com/superJavo/image/master/dufu.jpg)
 
-伦敦动物园进行年度动物盘点，一只非洲牛箱头蛙正在称重。难道你就是忍者龟的表弟？
+![](https://raw.githubusercontent.com/superJavo/image/master/jiangzhaohe.jpg)
 
-!(https://raw.githubusercontent.com/superJavo/image/master/tortoise.jpg)
+1952年，周恩来总理邀请水墨人物画大家蒋兆和先生绘制一套历史人物画像。由于没有图像史料，包括李时珍、祖冲之等多数人物只能虚构。而杜甫画像就是作者以自己的样貌为蓝本创作的。
 
-2 一名泰国消防员正在清洗装蛇的笼子
+2 钢丝舞者
 
-!(https://raw.githubusercontent.com/superJavo/image/master/snake.jpg)
+![](https://raw.githubusercontent.com/superJavo/image/master/gswz.jpg)
 
-泰国的蛇类在 6~10 月进入繁殖期，经常闯入村落民居寻找食物。捕蛇逐渐成为泰国消防员的日常工作，2018 年曼谷消防局共接到 3.7 万次除蛇报警，每天接警除蛇逾 100 次，而火灾仅有 1~2 次。大多数蛇为无毒的蟒蛇，消防员们通常将它们送往野生动物中心，最终放归自然。
+俄罗斯 Cosmoscow 当代艺术博览会上的一件作品，这件展品由白色涂层的钢丝制作，展现了一名跳舞的芭蕾舞者。
 
 # 文章
 
@@ -54,13 +49,13 @@ Google 开发的这款算法可以将手语转为语音。它将一只手分为 
 
 一篇学习咖啡知识的文章，本文介绍了咖啡的起源、种植、烘焙、研磨、品鉴等知识。
 
-2 [网络背后的阴暗](https://www.ifanr.com/1246758)   
+2 [你未必知道的49个CSS知识点](<https://juejin.im/post/5d3eca78e51d4561cb5dde12>)   
 
-互联网上的所有内容都会受到监督，而负责判定这些内容是否违规的人就是内容审核员。他们是一个特殊的群体，每天都要面对数以万计的黄、暴、恐、毒、血腥、虐待等极端内容，更严重的是这样的工作可能会造成难以修复的心理创伤，最终麻木。内容审核员们需要人道关怀，业内的普遍方向是用 AI 来替代人工审核。同时人们必须意识到他们在网络上看到的可能只是这个真实世界的冰山一角。
+本文总结了49个不常见的CSS技巧。
 
-3 [植物身上的黄金分割](https://card.weibo.com/article/m/show/id/2309404407466321379574)  
+3 [14亿人全民通电，中国如何做到的？](<https://mp.weixin.qq.com/s?__biz=MzIyOTQ1OTYzMw==&mid=2247524568&idx=1&sn=080b938bd3fc89d2c3181a9aa67c267e&chksm=e8407306df37fa100925c167599046f6b163d0e77c66690317b725d71568375beb2d301070e6&mpshare=1&scene=1&srcid=0723jtqH8BQpXbNZel8q6KAr&sharer_sharetime=1563892290118&sharer_shareid=f6db755da2a336e079660c4505b08b13>)  
 
-
+截至2018年底，当全世界发电量增速仅为3.7%时，中国却以8.4%的迅猛增速领跑全球。全年发电量达到71118亿千瓦时，几乎是以“一己之力”生产了全球超过**1/4的电量**。平均每2秒产生的电力就足以满足一个中国人一辈子的电力需求。本文解释了中国是如何满足如此强大的电力供应的。
 
 # 分享
 
@@ -134,6 +129,6 @@ Google 开发的这款算法可以将手语转为语音。它将一只手分为 
 
 ![公众号二维码](https://raw.githubusercontent.com/superJavo/image/master/wx_logo.jpg)
 
-2019-09-01  
+2019-09-08  
 
 （完）
